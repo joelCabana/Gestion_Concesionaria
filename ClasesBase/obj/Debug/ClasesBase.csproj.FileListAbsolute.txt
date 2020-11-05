@@ -1,0 +1,42 @@
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Practicos\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.dll
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Practicos\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.pdb
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Practicos\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.dll
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Practicos\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.pdb
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Practicos\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Practicos\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\Joel\Desktop\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\Joel\Desktop\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\Joel\Desktop\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\Joel\Desktop\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\Joel\Desktop\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\Joel\Desktop\Nueva carpeta (2)\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\Joel\Desktop\Nueva carpeta (2)\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\Joel\Desktop\Nueva carpeta (2)\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\Joel\Desktop\Nueva carpeta (2)\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\Nueva carpeta (2)\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\Joel\Desktop\Nueva carpeta (2)\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.pdb
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Final LPOO1\LPOO1_GRUPO1_TP-FINAL\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Final LPOO1\LPOO1_GRUPO1_TP-FINAL\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.dll
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Final LPOO1\LPOO1_GRUPO1_TP-FINAL\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.pdb
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Final LPOO1\LPOO1_GRUPO1_TP-FINAL\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.dll.config
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Final LPOO1\LPOO1_GRUPO1_TP-FINAL\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.dll
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Final LPOO1\LPOO1_GRUPO1_TP-FINAL\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.pdb
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Final LPOO1\LPOO1_GRUPO1_TP-FINAL-master\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.dll.config
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Final LPOO1\LPOO1_GRUPO1_TP-FINAL-master\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.dll
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Final LPOO1\LPOO1_GRUPO1_TP-FINAL-master\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.pdb
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Final LPOO1\LPOO1_GRUPO1_TP-FINAL-master\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Final LPOO1\LPOO1_GRUPO1_TP-FINAL-master\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.dll
+R:\FACULTAD\1_2020\Laboratorio de Programacion Orientada a Objetos\Trabajo Final LPOO1\LPOO1_GRUPO1_TP-FINAL-master\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\Joel\Desktop\Nueva carpeta (4)\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\Joel\Desktop\Nueva carpeta (4)\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\Joel\Desktop\Nueva carpeta (4)\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\Joel\Desktop\Nueva carpeta (4)\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\Nueva carpeta (4)\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\Joel\Desktop\Nueva carpeta (4)\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.pdb
+D:\Mis Documentos\Documentos\APU\Laboratorio de poo\TPFinal\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.dll.config
+D:\Mis Documentos\Documentos\APU\Laboratorio de poo\TPFinal\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.dll
+D:\Mis Documentos\Documentos\APU\Laboratorio de poo\TPFinal\LPOOI_GRUPO1\ClasesBase\bin\Debug\ClasesBase.pdb
+D:\Mis Documentos\Documentos\APU\Laboratorio de poo\TPFinal\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Documentos\APU\Laboratorio de poo\TPFinal\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.dll
+D:\Mis Documentos\Documentos\APU\Laboratorio de poo\TPFinal\LPOOI_GRUPO1\ClasesBase\obj\Debug\ClasesBase.pdb
